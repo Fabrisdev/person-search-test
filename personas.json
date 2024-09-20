@@ -1,0 +1,27 @@
+[
+    {
+        "fullname": "Sofía González",
+        "biography": "Ingeniera ambiental apasionada por la sostenibilidad y la conservación del medio ambiente. Sofía ha trabajado en proyectos de restauración de ecosistemas y en políticas de mitigación del cambio climático. Es defensora del uso de energías renovables y participa activamente en iniciativas comunitarias para educar sobre el reciclaje y la reducción de la huella de carbono.",
+        "photo_url": "https://mighty.tools/mockmind-api/content/human/44.jpg"
+    },
+    {
+        "fullname": "Carlos Ramírez",
+        "biography": "Profesor de historia dedicado a explorar las culturas antiguas y su impacto en la sociedad moderna. Carlos ha publicado varios ensayos sobre civilizaciones mesoamericanas y su legado en el mundo contemporáneo. Su pasión por la enseñanza lo ha llevado a liderar expediciones estudiantiles a sitios arqueológicos, donde busca despertar el interés por la preservación histórica en las nuevas generaciones.",
+        "photo_url": "https://mighty.tools/mockmind-api/content/human/65.jpg"
+    },
+    {
+        "fullname": "Lucía Fernández",
+        "biography": "Doctora en biotecnología, investigadora en terapias genéticas para enfermedades raras. Lucía ha pasado más de una década estudiando la edición genética y sus aplicaciones para el tratamiento de condiciones hereditarias. Es una pionera en su campo y ha recibido numerosos premios por su labor en investigación biomédica. Además, es mentora de jóvenes científicas en busca de inspiración para seguir carreras en STEM.",
+        "photo_url": "https://mighty.tools/mockmind-api/content/human/68.jpg"
+    },
+    {
+        "fullname": "Pedro Martínez",
+        "biography": "Emprendedor tecnológico, fundador de una startup de inteligencia artificial. Pedro ha revolucionado el mundo de las finanzas con sus algoritmos de predicción de mercados, logrando una innovación en el sector fintech. Además de dirigir su empresa, es un ávido inversor en proyectos tecnológicos emergentes, y colabora con organizaciones sin fines de lucro para promover el acceso a la tecnología en comunidades marginadas.",
+        "photo_url": "https://mighty.tools/mockmind-api/content/human/57.jpg"
+    },
+    {
+        "fullname": "Mariana López",
+        "biography": "Artista visual y fotógrafa, conocida por su trabajo en retratos y paisajes urbanos. Mariana ha expuesto sus obras en galerías de todo el mundo y es reconocida por su capacidad para capturar la esencia de la vida cotidiana en sus fotografías. Sus proyectos recientes incluyen una serie documental sobre la diversidad cultural en grandes ciudades, donde destaca la interacción entre la arquitectura y las personas que la habitan.",
+        "photo_url": "https://mighty.tools/mockmind-api/content/human/38.jpg"
+    }
+]

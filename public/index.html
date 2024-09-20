@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Buscador de personas</title>
+    <script src="index.js" defer type="module"></script>
+    <link rel="shortcut icon" href="img/logo.png" type="image/png">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div id="search-field-container">
+        <input type="text" id="fullname-input" placeholder="Escribe un nombre a buscar">
+        <button id="search-button">
+            <img src="/img/buscar.png" width="25px" height="25px" ="Imagen de lupa para buscar">
+        </button>
+    </div>
+    <div id="info-found-container">
+        <div id="general-info-container">
+            <h2 id="fullname-field">N/A</h2>
+            <p id="biography-field">¡Busca una persona para empezar!</p>
+        </div>
+        <img id="photo-field" src="/img/persona.png" alt="Foto de la persona encontrada">
+    </div>
+    <p id="alert"></p>
+</body>
+</html>
